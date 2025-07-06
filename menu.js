@@ -52,7 +52,7 @@ if (menuElement) {
     <nav> <!--Aqui foi criado um menu de navegação com <ul> sendo uma lista não ordenada-->
         <ul> 
             <li>
-                <a href="index.html">Sobre mim</a> <!--Link para uma outra página, nesse caso levará a mesma por ser a página inicial.-->
+                <a href="sobremim.html">Sobre mim</a> <!--Link para uma outra página, nesse caso levará a mesma por ser a página inicial.-->
             </li>
             <li>
                 <a href="formacao.html">Formação educacional</a>
